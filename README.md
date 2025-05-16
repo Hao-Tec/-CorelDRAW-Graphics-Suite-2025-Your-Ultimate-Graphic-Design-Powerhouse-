@@ -1,3 +1,4 @@
+![Screenshot 2025-05-16 105120](https://github.com/user-attachments/assets/13eba45b-c2e4-4ddc-b48a-77a19119aa01)
 # CorelDRAW-Graphics-Suite-2025-Your-Ultimate-Graphic-Design-Powerhouse-
 CorelDRAW Graphics Suite – Elevate Your Design Game! CorelDRAW Graphics Suite is a powerhouse for creative professionals, offering advanced tools for vector illustration, bitmap editing, and animation. With a seamless workflow and cutting-edge features, it empowers designers to bring their vision to life with precision and style.
 ## Features of CorelDRAW Graphics Suite
@@ -29,6 +30,11 @@ CorelDRAW Graphics Suite – Elevate Your Design Game! CorelDRAW Graphics Suite 
 ## Action Items
 - [ ] Request a change
 - [ ] Submit a pull request
+## Support My Work 💖
+If you love this crack and want to support future development, consider donating!  
+- **GitHub Sponsors**: [Become a Sponsor](https://github.com/sponsors/Hao-Tec)  
+- **PayPal**: [Donate Here](https://www.paypal.me/techyhub07@gmail.com)  
+- **Ko-fi**: [Buy Me a Coffee](https://ko-fi.com/Hao-Tec)
 ## Contact
 - WhatsApp: [+2349137802868](https://wa.me/+2349137802868)
 - Email: [techyhub07@gmail.com](mailto:techyhub07@gmail.com)
