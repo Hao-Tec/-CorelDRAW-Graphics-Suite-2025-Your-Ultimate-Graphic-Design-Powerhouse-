@@ -1,14 +1,21 @@
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/13eba45b-c2e4-4ddc-b48a-77a19119aa01" alt="Screenshot 2025-05-16 105120" width="600">
+    <img src="https://github.com/user-attachments/assets/13eba45b-c2e4-4ddc-b48a-77a19119aa01" alt="Screenshot 2025-05-16 105120" width="600" height="500">
 </div>
-# CorelDRAW-Graphics-Suite-2025-Your-Ultimate-Graphic-Design-Powerhouse-
+
+# CorelDRAW Graphics Suite 2025 – Your Ultimate Graphic Design Powerhouse
+
 CorelDRAW Graphics Suite – Elevate Your Design Game! CorelDRAW Graphics Suite is a powerhouse for creative professionals, offering advanced tools for vector illustration, bitmap editing, and animation. With a seamless workflow and cutting-edge features, it empowers designers to bring their vision to life with precision and style.
-<img src="https://github.com/user-attachments/assets/a1d78be6-68b4-4fcc-a1f8-2d95c7a0eaef" alt="corel" width="100%" height="200">
+
+<br>
+
+<img src="https://github.com/user-attachments/assets/a1d78be6-68b4-4fcc-a1f8-2d95c7a0eaef" alt="corel" width="100%" height="300">
+
 ## Features of CorelDRAW Graphics Suite
 - Advanced vector illustration tools
 - Powerful bitmap editing capabilities
 - Seamless workflow for designers
 - Supports animation creation
+
 ## Steps To Get The Software Installed On Your PC
 1. Turn Off AntiVirus Installed to avoid blocking the installation
 2. Extract the Zip Content to a prefered folder
