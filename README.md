@@ -1,4 +1,4 @@
-# -CorelDRAW-Graphics-Suite-2025-Your-Ultimate-Graphic-Design-Powerhouse-
+# CorelDRAW-Graphics-Suite-2025-Your-Ultimate-Graphic-Design-Powerhouse-
 CorelDRAW Graphics Suite – Elevate Your Design Game! CorelDRAW Graphics Suite is a powerhouse for creative professionals, offering advanced tools for vector illustration, bitmap editing, and animation. With a seamless workflow and cutting-edge features, it empowers designers to bring their vision to life with precision and style.
 ## Features of CorelDRAW Graphics Suite
 - Advanced vector illustration tools
