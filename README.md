@@ -41,10 +41,8 @@ CorelDRAW Graphics Suite – Elevate Your Design Game! CorelDRAW Graphics Suite 
 - [ ] Request a change
 - [ ] Submit a pull request
 ## Support My Work 💖
-If you love this crack and want to support future development, consider donating!  
-- **GitHub Sponsors**: [Become a Sponsor](https://github.com/sponsors/Hao-Tec)  
-- **PayPal**: [Donate Here](https://www.paypal.me/techyhub07@gmail.com)  
-- **Ko-fi**: [Buy Me a Coffee](https://ko-fi.com/Hao-Tec)
+If you love this crack and want to support future development, consider donating!   
+- **Ko-fi**: [Buy Me a Coffee](https://ko-fi.com/haotec)
 ## Contact
 - WhatsApp: [+2349137802868](https://wa.me/+2349137802868)
 - Email: [techyhub07@gmail.com](mailto:techyhub07@gmail.com)
