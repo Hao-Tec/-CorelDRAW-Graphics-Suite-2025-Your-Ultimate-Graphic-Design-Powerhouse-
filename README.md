@@ -29,3 +29,7 @@ CorelDRAW Graphics Suite – Elevate Your Design Game! CorelDRAW Graphics Suite 
 ## Action Items
 - [ ] Request a change
 - [ ] Submit a pull request
+## Contact
+- WhatsApp: [+2349137802868](https://wa.me/+2349137802868)
+- Email: [techyhub07@gmail.com](mailto:techyhub07@gmail.com)
+- GitHub: [Hao-Tec](https://github.com/Hao-Tec)
